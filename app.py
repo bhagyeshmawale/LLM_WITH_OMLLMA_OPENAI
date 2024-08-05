@@ -17,7 +17,7 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 LANGCHAIN_TRACING_V2= "true"
 LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-LANGCHAIN_API_KEY="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"
+LANGCHAIN_API_KEY=""
 LANGCHAIN_PROJECT="tutorial1"
 
 # api_key = os.getenv("LANGCHAIN_API_KEY")
